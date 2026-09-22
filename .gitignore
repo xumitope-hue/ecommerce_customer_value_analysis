@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env/
+Thunms.db
+.DS_Store
+
+#  Raw data
+data/raw/*
+!data/raw/README.md
